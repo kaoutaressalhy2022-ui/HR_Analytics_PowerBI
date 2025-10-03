@@ -27,12 +27,17 @@ It provides insights into employee data such as **headcount, attrition, average 
 
 ## 🛠️ Tools & Technologies
 - Power BI Desktop
-- Excel (for dataset)
+- Excel (for dataset) 
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot][(images/dashboard.png)] (https://github.com/kaoutaressalhy2022-ui/HR_Analytics_PowerBI/blob/main/Screenshot%202025-10-03%20091040.png)
 
 ## 🚀 How to Use
 1. Clone this repository  
    ```bash
    
+## 📬 Contact
+Created by [Kaoutar Essalhy] www.linkedin.com/in/kaoutar-essalhy-5bb5bb289
+
+ 
+Feel free to connect!
